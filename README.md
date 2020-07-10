@@ -5,11 +5,14 @@ A Face Recogniser recognize face using HaarCascade and detect faces
 
 ## Instructions:
 Requirements:
+
 	1) openCV-python
 	2) opencv_contrib_python
 	3) numpy
-Note: 1) while training image,input the name in quotes. i.e,, example Enter your name : 'Ashreet'
 
+Note: 1) while training image,input the name in quotes. i.e,, example Enter your name : 'Ashreet'
+      2) Must create a folder name "people_folder"
+      
 ### You get 3 options:
 
 ## 1) Add a new face to the dataset of known people :
