@@ -1,5 +1,4 @@
 # Face-Recognition-using-opencv
-Fitness Konnect , Screening test
 
 A Face Recogniser recognize face using HaarCascade and detect faces
 
